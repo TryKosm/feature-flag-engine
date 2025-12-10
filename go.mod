@@ -1,3 +1,3 @@
-module feature-flag-experiment-engine
+module github.com/TryKosm/feature-flag-engine
 
 go 1.22

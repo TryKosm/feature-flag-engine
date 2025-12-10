@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"feature-flag-experiment-engine/internal/engine"
+	"feature-flag-engine/internal/engine"
 )
 
 func main() {

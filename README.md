@@ -1,5 +1,7 @@
-# feature-flag-experiment-engine
+# Feature Flag Engine
 
-![CI](https://github.com/TryKosm/feature-flag-experiment-engine/actions/workflows/ci.yml/badge.svg)
+Deterministic feature flags and experiment evaluation.
+
+![CI](https://github.com/TryKosm/feature-flag-engine/actions/workflows/ci.yml/badge.svg)
 
 Go service primitives for deterministic feature-flag assignment and experiment bucketing.
